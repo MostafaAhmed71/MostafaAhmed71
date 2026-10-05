@@ -1,113 +1,74 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Mostafa Ahmed — Web apps, Flutter, desktop and automation" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Mostafa Ahmed — Developer, creator and solution builder" />
 </p>
 
 <p align="center">
-  <a href="https://mostafa-portfolio-ashen.vercel.app/"><strong>Explore my work ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:moahmed7412@gmail.com"><strong>Let's build something ↗</strong></a>
+<a href="https://mostafa-portfolio-ashen.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-8B5CF6?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Explore my work" /></a>
+&nbsp;
+<a href="mailto:moahmed7412@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-0EA5E9?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Contact Mostafa by email" /></a>
 </p>
 
 <div dir="rtl" align="right">
 
-## أهلًا، أنا مصطفى أحمد
+### من فكرة… إلى تجربة تستحق الاستخدام.
 
-أطوّر مواقع وتطبيقات وأنظمة مخصصة تحوّل الأفكار إلى أدوات مفيدة في العمل اليومي. أعمل على حلول للمدارس والأنشطة التجارية، من لوحات الإدارة وتطبيقات Flutter إلى الأتمتة والتجارب التفاعلية.
+أنا **مصطفى أحمد**. أبني مواقع وتطبيقات وأنظمة تساعد الناس على إنجاز شغلهم بسهولة، وأصمّم تجارب عربية تجمع بين الشكل الجذاب والوظيفة العملية.
 
-**أهتم بأن يكون المنتج واضحًا، عمليًا، وسهل الاستخدام — مع تجربة عربية مصممة من البداية.**
+**تطبيقات Flutter · أنظمة ويب وسطح مكتب · أتمتة وذكاء اصطناعي · تجارب تفاعلية**
 
 </div>
 
-### From an idea to a working product
+<p align="center"><sub>Based in Rafha, Saudi Arabia · Building for real-world workflows</sub></p>
 
-I build custom web, mobile, and desktop applications, with a focus on practical workflows, Arabic interfaces, and useful integrations. My work spans education, business tools, automation, and interactive experiences.
+<br />
 
----
-
-### What I build
-
-| Focus | Solutions |
-| :--- | :--- |
-| **Web & business tools** | Custom websites, dashboards, portals, and operational systems |
-| **Mobile & desktop** | Flutter applications and Electron desktop tools |
-| **Education** | School workflows, student services, assessment, and learning experiences |
-| **Automation & AI** | Telegram bots, AI integrations, and connected workflows |
-| **Interactive experiences** | Live competitions, real-time interfaces, and hardware-connected activities |
-
-### Selected projects
+## Selected work
+<sub>A few things I've built — click a card to explore.</sub>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### 01 / School operations
-**[Elite Control](https://github.com/MostafaAhmed71/elite-control-electron)**
-
-A desktop toolkit bringing OMR grading, graduation invitations, and student services together.
-
-<sub>Electron · JavaScript · Vite · OMR</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 02 / Live interactive experiences
-**[Rehla Watan 96 · رحلة وطن](https://github.com/MostafaAhmed71/rehla-watan-96)**
-
-A live school competition with dedicated team and display interfaces, connected to ESP32 buzzers.
-
-<sub>React · Node.js · Socket.IO · ESP32</sub>
-
-</td>
+<td width="50%"><a href="https://github.com/MostafaAhmed71/elite-control-electron"><img src="./assets/elite-control.svg" width="100%" alt="Elite Control — Electron desktop toolkit for OMR grading and school operations" /></a></td>
+<td width="50%"><a href="https://github.com/MostafaAhmed71/rehla-watan-96"><img src="./assets/rehla-watan.svg" width="100%" alt="Rehla Watan 96 — live competition with React, Socket.IO and ESP32 buzzers" /></a></td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 03 / AI & automation
-**[North Elite Telegram Bot](https://github.com/MostafaAhmed71/nokbat-telegram-bot)**
-
-Student and teacher services, quizzes, AI assistance, and administrative workflows inside Telegram.
-
-<sub>Node.js · Telegraf · Gemini · Supabase</sub>
-
-</td>
-<td width="50%" valign="top">
-
-#### 04 / Portfolio
-**[My work & case studies](https://mostafa-portfolio-ashen.vercel.app/)**
-
-Explore the web, mobile, desktop, and automation solutions I build for schools and businesses.
-
-[View source →](https://github.com/MostafaAhmed71/mostafa-portfolio)
-
-<sub>Web · Mobile · Desktop · Automation</sub>
-
-</td>
+<td width="50%"><a href="https://github.com/MostafaAhmed71/nokbat-telegram-bot"><img src="./assets/telegram-ai.svg" width="100%" alt="North Elite Bot — Telegram services with Gemini AI" /></a></td>
+<td width="50%"><a href="https://mostafa-portfolio-ashen.vercel.app/"><img src="./assets/portfolio.svg" width="100%" alt="Mostafa Ahmed portfolio — products and case studies" /></a></td>
 </tr>
 </table>
 
-### Tools I work with
+<br />
 
-**Interfaces**  
-Flutter & Dart · React · TypeScript · Next.js · HTML & CSS
+## My toolkit
 
-**Backend & data**  
-Node.js · Express · Python · PHP · PostgreSQL · Supabase · Firebase · SQLite
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,nextjs,html,css,js&amp;perline=8" alt="Flutter, Dart, React, TypeScript, Next.js, HTML, CSS and JavaScript" />
+<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,postgres,supabase,firebase,sqlite&amp;perline=8" alt="Node.js, Express, Python, PHP, PostgreSQL, Supabase, Firebase and SQLite" />
+<br />
+<img src="https://skillicons.dev/icons?i=electron,vite,git,github,vercel,vscode&amp;perline=6" alt="Electron, Vite, Git, GitHub, Vercel and VS Code" />
+</p>
 
-**Delivery & integrations**  
-Git & GitHub · Vite · Electron · Vercel · Telegram bots · AI APIs · ESP32
-
----
+<br />
 
 <div dir="rtl" align="right">
 
-### عندك فكرة أو شغل محتاج تنظيم؟
+## ماذا أقدر أبني لك؟
 
-موقع، تطبيق، نظام إدارة، أو أتمتة لمهمة متكررة — تواصل معي لنحدد احتياجك ونحوّله إلى حل قابل للاستخدام.
+🌐 **مواقع وأنظمة مخصصة** — بوابات، لوحات تحكم، وأدوات لتنظيم العمل.
+
+📱 **تطبيقات موبايل وسطح مكتب** — حلول Flutter وElectron حسب احتياجك.
+
+⚡ **أتمتة وتكاملات ذكية** — تقليل المهام المتكررة وربط أدواتك ببعض.
+
+🎮 **تجارب تفاعلية** — مسابقات، ألعاب تعليمية، وتفاعل مباشر مع الأجهزة.
 
 </div>
 
+---
+
 <p align="center">
-  <a href="https://mostafa-portfolio-ashen.vercel.app/"><strong>Portfolio / الأعمال</strong></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:moahmed7412@gmail.com"><strong>Email / تواصل معي</strong></a>
+<strong>Have an idea? Let's make it work.</strong><br /><br />
+<a href="https://mostafa-portfolio-ashen.vercel.app/">View portfolio</a>
+&nbsp; • &nbsp;
+<a href="mailto:moahmed7412@gmail.com">Get in touch</a>
 </p>
