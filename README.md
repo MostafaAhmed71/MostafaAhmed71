@@ -1,97 +1,113 @@
-# 👋 Hi, I'm Mostafa Ahmed
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Mostafa Ahmed — Web apps, Flutter, desktop and automation" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-MostafaAhmed71-181717?style=for-the-badge&logo=github)](https://github.com/MostafaAhmed71)
+<p align="center">
+  <a href="https://mostafa-portfolio-ashen.vercel.app/"><strong>Explore my work ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:moahmed7412@gmail.com"><strong>Let's build something ↗</strong></a>
+</p>
 
-**Full-Stack Developer** specializing in:
-- 🏫 **School Management Systems** (LMS, ERP, E-Learning)
-- 🤖 **AI Integration** (Gemini, Ollama, Telegram Bots)
-- 📱 **Cross-Platform Apps** (Electron, Flutter, React)
-- 🌐 **Web Development** (React, Next.js, Vue, PHP)
+<div dir="rtl" align="right">
 
----
+## أهلًا، أنا مصطفى أحمد
 
-## 🛠️ Tech Stack
+أطوّر مواقع وتطبيقات وأنظمة مخصصة تحوّل الأفكار إلى أدوات مفيدة في العمل اليومي. أعمل على حلول للمدارس والأنشطة التجارية، من لوحات الإدارة وتطبيقات Flutter إلى الأتمتة والتجارب التفاعلية.
 
-### Frontend
-- **React 19** + Vite (modern SPAs)
-- **Next.js 14** (full-stack React framework)
-- **Vue 3** + Vuetify (admin dashboards)
-- **Flutter** + Dart (mobile apps)
-- **HTML5 / CSS3 / JavaScript** (vanilla web)
+**أهتم بأن يكون المنتج واضحًا، عمليًا، وسهل الاستخدام — مع تجربة عربية مصممة من البداية.**
 
-### Backend & Databases
-- **Node.js** + Express (REST APIs, microservices)
-- **Python** + Django (data science, OMR)
-- **PHP** (server-rendered sites)
-- **Supabase** (Postgres + Realtime)
-- **Firebase** (Firestore + Realtime DB + Auth)
-- **SQLite** (embedded databases)
+</div>
 
-### Tools & DevOps
-- **Electron** (desktop apps)
-- **Telegraf** + **Gemini AI** (Telegram bots)
-- **Git** + **GitHub** (version control)
-- **PM2** (production process manager)
-- **Nginx** + Linux (deployment)
+### From an idea to a working product
+
+I build custom web, mobile, and desktop applications, with a focus on practical workflows, Arabic interfaces, and useful integrations. My work spans education, business tools, automation, and interactive experiences.
 
 ---
 
-## 📊 GitHub Stats
+### What I build
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MostafaAhmed71&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAhmed71&layout=compact&theme=tokyonight)
+| Focus | Solutions |
+| :--- | :--- |
+| **Web & business tools** | Custom websites, dashboards, portals, and operational systems |
+| **Mobile & desktop** | Flutter applications and Electron desktop tools |
+| **Education** | School workflows, student services, assessment, and learning experiences |
+| **Automation & AI** | Telegram bots, AI integrations, and connected workflows |
+| **Interactive experiences** | Live competitions, real-time interfaces, and hardware-connected activities |
+
+### Selected projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 01 / School operations
+**[Elite Control](https://github.com/MostafaAhmed71/elite-control-electron)**
+
+A desktop toolkit bringing OMR grading, graduation invitations, and student services together.
+
+<sub>Electron · JavaScript · Vite · OMR</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 02 / Live interactive experiences
+**[Rehla Watan 96 · رحلة وطن](https://github.com/MostafaAhmed71/rehla-watan-96)**
+
+A live school competition with dedicated team and display interfaces, connected to ESP32 buzzers.
+
+<sub>React · Node.js · Socket.IO · ESP32</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 03 / AI & automation
+**[North Elite Telegram Bot](https://github.com/MostafaAhmed71/nokbat-telegram-bot)**
+
+Student and teacher services, quizzes, AI assistance, and administrative workflows inside Telegram.
+
+<sub>Node.js · Telegraf · Gemini · Supabase</sub>
+
+</td>
+<td width="50%" valign="top">
+
+#### 04 / Portfolio
+**[My work & case studies](https://mostafa-portfolio-ashen.vercel.app/)**
+
+Explore the web, mobile, desktop, and automation solutions I build for schools and businesses.
+
+[View source →](https://github.com/MostafaAhmed71/mostafa-portfolio)
+
+<sub>Web · Mobile · Desktop · Automation</sub>
+
+</td>
+</tr>
+</table>
+
+### Tools I work with
+
+**Interfaces**  
+Flutter & Dart · React · TypeScript · Next.js · HTML & CSS
+
+**Backend & data**  
+Node.js · Express · Python · PHP · PostgreSQL · Supabase · Firebase · SQLite
+
+**Delivery & integrations**  
+Git & GitHub · Vite · Electron · Vercel · Telegram bots · AI APIs · ESP32
 
 ---
 
-## 🌟 Featured Projects
+<div dir="rtl" align="right">
 
-### 🏫 School Management
-- [**madar-lms-platform**](https://github.com/MostafaAhmed71/madar-lms-platform) — Full LMS with WhatsApp integration
-- [**ERB-Elite**](https://github.com/MostafaAhmed71/ERB-Elite) — School ERP with student management
-- [**elite-control-electron**](https://github.com/MostafaAhmed71/elite-control-electron) — Desktop app for OMR + ceremonies (كنترول نخبة الشمال)
-- [**school-website-php**](https://github.com/MostafaAhmed71/school-website-php) — Multi-page school site
-- [**smart-omr-django**](https://github.com/MostafaAhmed71/smart-omr-django) — OMR grading engine
+### عندك فكرة أو شغل محتاج تنظيم؟
 
-### 🤖 AI & Bots
-- [**nokbat-telegram-bot**](https://github.com/MostafaAhmed71/nokbat-telegram-bot) — Telegram bot with Gemini AI + Supabase
-- [**school-ai-chatbot-react**](https://github.com/MostafaAhmed71/school-ai-chatbot-react) — Chatbot with local Ollama LLM
-- [**remotion-video-nextjs**](https://github.com/MostafaAhmed71/remotion-video-nextjs) — Programmatic video generation
+موقع، تطبيق، نظام إدارة، أو أتمتة لمهمة متكررة — تواصل معي لنحدد احتياجك ونحوّله إلى حل قابل للاستخدام.
 
-### 📱 Apps & Extensions
-- [**noor-certificate-extension**](https://github.com/MostafaAhmed71/noor-certificate-extension) — Chrome extension for student certificates
-- [**theater-booking-system**](https://github.com/MostafaAhmed71/theater-booking-system) — Theater seating + guest booking system
+</div>
 
-### 🛒 E-Commerce & Business
-- [**madar-marketplace-react**](https://github.com/MostafaAhmed71/madar-marketplace-react) — Multi-vendor marketplace
-- [**pharmacy-management-react**](https://github.com/MostafaAhmed71/pharmacy-management-react) — Pharmacy inventory system
-
-### 📋 Other Tools
-- [**fcm-sender-nodejs**](https://github.com/MostafaAhmed71/fcm-sender-nodejs) — Push notification microservice
-- [**student-reports-firebase**](https://github.com/MostafaAhmed71/student-reports-firebase) — Parent report generation
-- And 24+ more projects on my GitHub!
-
----
-
-## 💼 Available for Freelance Work
-
-I'm currently **open to freelance projects** in:
-- ✅ **School/EdTech Systems** (LMS, ERP, E-Learning, OMR)
-- ✅ **Custom Web Apps** (React, Next.js, Vue, PHP)
-- ✅ **Telegram Bots** (Telegraf, Gemini AI, integrations)
-- ✅ **Mobile Apps** (Flutter, React Native)
-- ✅ **Desktop Apps** (Electron)
-- ✅ **Database Design** (Supabase, Firebase, PostgreSQL)
-
-📫 **Reach me at:** [GitHub Profile](https://github.com/MostafaAhmed71) or open an issue on any of my repos.
-
----
-
-## 📫 Let's Connect
-
-- 🏢 **Current Focus**: Building school management systems for Arabic-speaking schools
-- 🌍 **Languages**: Arabic (native), English (fluent)
-- 🎯 **Goal**: Help schools digitize their operations through custom software
-
----
-
-<sub>Last updated: 2026-06-29 · Built with ❤️ using GitHub Profile README</sub>
+<p align="center">
+  <a href="https://mostafa-portfolio-ashen.vercel.app/"><strong>Portfolio / الأعمال</strong></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:moahmed7412@gmail.com"><strong>Email / تواصل معي</strong></a>
+</p>
